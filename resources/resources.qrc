@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/icons8-lleno-enviado-25.png</file>
+    <file>icons/icons8-escoba-25.png</file>
+    <file>icons/icons8-detener-26.png</file>
+    <file>icons/icons8-pausa-25.png</file>
+    <file>icons/icons8-play-25.png</file>
+    <file>icons/icons8-eliminar-24.png</file>
+    <file>icons/icons8-clasificar-arriba-15.png</file>
+    <file>icons/icons8-ajustes-25.png</file>
+    <file>icons/icons8-clasificar-arriba-48.png</file>
+    <file>icons/icons8-clasificar-abajo-15.png</file>
+    <file>icons/icons8-clasificar-abajo-48.png</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>img/icons8-onda-sonora-100.png</file>
+    <file>img/FCEIA-logo.png</file>
+  </qresource>
+</RCC>

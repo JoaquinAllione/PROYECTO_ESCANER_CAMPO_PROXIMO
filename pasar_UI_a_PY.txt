@@ -1,0 +1,2 @@
+pyuic5 UI_proyecto.ui -o UI_proyecto.py
+pyuic5 UI_inst_settings.ui -o UI_inst_settings.py
